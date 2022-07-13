@@ -52,7 +52,7 @@ Welcome to DataCapture used to apply basic statistics (les, greater, between) to
 with a time complexity O(1) for add, les, greater, between operations
 """)
 print("""
-How use it: enter the operations followed by the a positive number(s), The operation accepted are [less, greater, between]
+How use it: enter the operations followed by a positive number(s), The operation accepted are [less, greater, between]
 examples:
     - less 5
     - greater 10
