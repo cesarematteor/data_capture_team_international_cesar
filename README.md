@@ -3,6 +3,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [How use it](#how-use-it)
+* [How it works](#how-it-works)
 
 ## General info
 Data Capture program for TEAM INTERNATIONAL demo.
